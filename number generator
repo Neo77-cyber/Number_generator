@@ -26,3 +26,5 @@ generator_num = True
 print("Phone number generator")
 present = my_country.area("052")
 genz = my_country.phone_number()
+
+# creat a while loop for 10 random numbers
